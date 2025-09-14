@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🦋 1st year Master student <strong>@UChi</strong> in <strong>Computational Social Science </strong>(CSS) 
+  🦋 2nd year Master student <strong>@UChi</strong> in <strong>Computational Social Science </strong>(CSS) 
 </p>
 <p align="center">
   🎓 Obtained dual bachelor degree in <strong>Finance</strong> and <strong>Psychology</strong> with a minor in <strong>Management @Tulane </strong>
