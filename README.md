@@ -8,10 +8,11 @@
 </p>
 
 <p align="center">
-  🦋 2nd year Master student <strong>@UChi</strong> in <strong>Computational Social Science </strong>(CSS) 
+  🦋 1st year PhD student @Booth in Behavioral Science
 </p>
+
 <p align="center">
-  🎓 Obtained dual bachelor degree in <strong>Finance</strong> and <strong>Psychology</strong> with a minor in <strong>Management @Tulane </strong>
+  🎓 Previously M.A. in Computational Social Science @UChicago
 </p>
 
 <p align="center">
